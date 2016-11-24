@@ -1,0 +1,7 @@
+Dependencies:
+AnyEvent::Socket;
+AnyEvent::Handle;
+Digest::CRC;
+Crypt::CBC;
+Crypt::RSA;
+Tie::File::AsHash;
